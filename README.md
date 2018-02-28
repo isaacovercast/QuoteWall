@@ -13,3 +13,7 @@ Just a list of poetical/hilarious/surprising/interesting statements from publish
 # From Lab Meeting
 
 "Space has always been an enigma in population genetics."
+
+"We call land plants 'dry algae'" - R. Sleith
+
+
