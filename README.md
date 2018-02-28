@@ -16,4 +16,4 @@ Just a list of poetical/hilarious/surprising/interesting statements from publish
 
 "We call land plants 'dry algae'" - R. Sleith
 
-
+"It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
