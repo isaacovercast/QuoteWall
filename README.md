@@ -17,3 +17,5 @@ Just a list of poetical/hilarious/surprising/interesting statements from publish
 "We call land plants 'dry algae'" - R. Sleith
 
 "It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
+
+"It's not just chicken soup recipes." - M. Hick on genealogical inheritence beyond genetics.
