@@ -91,6 +91,79 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 
 "Models aren't evidence." - (5/27/15)
 
+"I wouldn't say it's from lack of trying. There is some lack of trying." (9/24)
+
+"You can't sample from things that don't exist." (9/24/15)
+
+"For some reason they like sex and sometimes they mate wrongly." - A Carvalho (9/30/15)
+
+"I don't use it, I just advertise it." 
+
+"The opportunity to use fancy machines is very attractive to me." - JKass (10/19/15)
+
+"Feasibility shock." - 10/22/15
+
+"Hard uncertainty vs soft uncertainty." - 10/22/15 ???
+
+"The problem isn't that you don't have the ingredients, the problem is the cooking." - Jampack
+
+"There are no buffers in life!" - MHick 11/17/15
+
+"It changes less than it stays the same." - TDoyle 11/30/15
+
+"I'm not gonna shoot it if I'm not gonna eat it." - RR
+
+"Taxonomy is a little bit above my paygrade." - MHick 3/3/16
+
+"I don't care about what's cool, I care about what's closest to the truth." - ACarnav 2/9/16
+
+"Complex, heterogeneous, and thus effectively unknown." - JNov 2/16/16
+
+"Pi is classically robust to sample size." Mhick 2/16
+
+"Depends on which side of the bed you get out of." - Mhick
+
+"That's a process that comes about as a function of things happening." - WPearse 3/2/16
+
+"Lets model it, man!" - MBlair 3/4/16
+
+"I don't know if further science would help." - MBlair 3/4/16
+
+"It prevents you from exchanging heat with your drink." - Roberta 3/7/16
+
+"What makes a penguin a penguin?" - 3/30/16
+
+"To go from the sublime to the ridiculous." - LEckhardt - 5/17/16
+"Sort of out of sorts." - LEckh
+
+"Any model based approach you're gonna have to make some sacrifices." - MHick 5/18/16
+
+"I find pigeons intimidating." - JieJie 9/20/19
+
+# Human Evolutionary Genetics
+* "Some description of reality that seems reasonable." - M.Prz 1/19/16
+* "Admixture assumes isolated populations."
+* "Ancestors and ancestry are different."
+* "Finding our keys under the lamp post."
+* "In science, the less data people have, the more they argue."
+* "It's the sad thing in evolution.... The only equilibrium is for everything to go extinct." - YSimons 3/4/16
+* "Asymptotically useless estimator." - JPritch
+* "Obviously the best place to start is the beginning." - Ysim 2/16/16
+* "And now I'm telling a story, but it's a plausible story."
+* "Cheating is an extremely legitimate way of getting things done." - Ysim 2/26/16
+* "Obviously within the factor of 'what the hell is the mutation rate." - Ysim 2/26
+* "To get a better estimate than looking at the values and guessing." - Ysim
+* "If we evolved from monkeys, why are there still monkeys?" - Ysim 3/4/16
+* "You get some sort of 0 == 0, which is sensical but not very helpful." - GSella 3/8/16
+* "What's magical about the diffusion is you can do a ton of stuff with it." - GSella 3/6/16
+* "Everything that's possible also happens in biology." - GSella 3/29/16
+* "A midparent is not an individual."
+* "Interpretation is rarely assumption free." 3/22/16
+* "Teaching cookies by reading recipes is not very interesting." 3/22/16
+* "It's not exactly science." - GSella
+* "Measuring a whale out of water can be problematic." - GSella 3/31/16
+* "That's why god invented statistics." - GSella 4/5/16
+
 # Random
 
 "Space has always been an enigma in population genetics."
@@ -100,6 +173,12 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 "It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
 
 "It's not just chicken soup recipes." - M. Hick on genealogical inheritence beyond genetics.
+
+# AK
+* "People can't get enough of hemipenes." - (9/24/15)
+* "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
+* "Sometimes you have to close the tabs and accept the fact that you're never going back to those tabs."
+* "I'm 99% sure I have a pretty lumpy head." - 10/22/15
 
 # From Papers
 
