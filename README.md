@@ -138,8 +138,6 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 
 "Any model based approach you're gonna have to make some sacrifices." - MHick 5/18/16
 
-"I find pigeons intimidating." - JieJie 9/20/19
-
 # Human Evolutionary Genetics
 * "Some description of reality that seems reasonable." - M.Prz 1/19/16
 * "Admixture assumes isolated populations."
@@ -164,6 +162,36 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 * "Measuring a whale out of water can be problematic." - GSella 3/31/16
 * "That's why god invented statistics." - GSella 4/5/16
 
+# sDIV
+* "It probably brackets the truth." - LHarm
+* "I'm just trying to maximize entropy." 
+* "This function is known, but it's messy."
+* "The island looks huge if you're a nematode."
+* "I know a whole bunch of people who want to explain the kink w/o evolution."
+* "The synthesis of the kink in this relationship."
+* "We need a figure looking at some evolutionary stuff."
+* "There's no way the snail crawled up the volcano."
+* "It's the margins of 'roughly' that'll bite us."
+* "How willing are you to give the data a break."
+* "I have never speciated." "Your waiting time is just long."
+* "I'm embarassingly homozygous here."
+* "It is better to deal with real reviewers than imaginary ones." - LHarm
+* "Sometimes you just never notice things." MRuff
+
+# Genetics Evolution Process
+* "A gar is a better mouse than a zebra fish." - NShubin 4/20/18
+* "Nothing ever begins at the time you think it did." - LHellman 4/20/18
+* "It's almost like the transition to land was trivial."
+* "It's kind of the same but different."
+* "There's lots of species that breathe air, as you well know."
+* "They stop ignoring them, or they stop killing them at least."
+* "Zero huddling and zero licking."
+* "Animals are just vessels for getting bacteria food and moving them around."
+* "They all eat nectar and pollen, that's the diet of bees."
+* "If you're a microbiologist you understand the names don't mean that much."
+* "He's been getting the decapitated flies to survive."
+* "I can tell you precisely about the genetics and kind of mumble about the archaeology." DReich
+
 # Random
 
 "Space has always been an enigma in population genetics."
@@ -173,6 +201,12 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 "It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
 
 "It's not just chicken soup recipes." - M. Hick on genealogical inheritence beyond genetics.
+
+"It's not 'cabalistic symbols' it's calculus." - UMartin 4/18/18
+
+"Computationally, this is a nasty formula." - CAne 11/8/18
+
+"I find pigeons intimidating." - JieJie 9/20/19
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
