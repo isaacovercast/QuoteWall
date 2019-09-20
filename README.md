@@ -206,6 +206,48 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 
 "Computationally, this is a nasty formula." - CAne 11/8/18
 
+"We're bad at seeing when it doesn't happen."
+
+"The poster child of the ever-wet Carboniferous."
+
+"I'm an ecologist, I don't __do__ phylogenies."
+
+"I'm a scientist, I don't "believe" in things."
+
+"New age technology."
+
+## Island biology 2019
+* "Surely the moth is in the drivers seat."
+* "Large mammal herbivores are on average bad dispersers.
+* "Aliens are everywhere."
+* "There's different ways to be different." - EEconomo 1/19
+* "This is where it becomes __super__ non-random."
+* "A crucible for evolution." - Hamp Carsten
+* "It's a parallel universe talking about how soil evolves."
+* "We are very much Hippies." JMFernandez-Palacios
+* "We don't know how much we are missing."
+* "The people making the decisions aren't the decision makers."
+
+## NSF Program Officer
+* "I think of geology as a hard science and systematics as somewhat iffy."
+* "Dimensions proposals are notoriously bad."
+* "Very few rules but lots of guidelines."
+* "It is soo easy! Write a __great__ proposal, send it in, and we'll fund it."
+* "The other things you probably don't read are the solicitations."
+* "Emerging frontiers... the mystery division."
+* "Proposals have a relative fitness, not an absolute fitness."
+
+## NSF Proposal Advice
+* Why is your project important? Knowing how to explain this is super important!
+* By the bottom of page 1 it is already over!!
+* Nothing is ever obvious. Connect your methods to your hypotheses.
+* Justify Everything!
+* How do you measure broader impacts?
+* Never be afraid to ask for $ for broader impacts.
+* A bunch of little things means they just weren't that into you. Page 1 failed.
+* What are your dependent variables? That is the program you should submit to.
+* The ecosystem that your proposal enters is different every round.
+* Small grants are judged on bang for the buck.
 "I find pigeons intimidating." - JieJie 9/20/19
 
 # AK
