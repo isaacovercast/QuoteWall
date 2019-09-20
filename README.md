@@ -2,53 +2,53 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 
 # 2014/2015
 ## Evolution
-"It's great because it adds complexity, but it's bad because it adds complexity." - AC Carnaval (9/17/14)
-"It's predictable, it's just stochastic!" - AC Carnaval 10/1/14
-"Selection isn't survival of the fittest, it's reproduction of the good enough" - AC Carnaval 10/1/14
-"Pattern doesn't equal process." "Time gives you diversity." "Go with feasible." "Natural selection is in your face!"
-"You can't expect drift to do anything, it's completely random." - AC Carnaval
-"There is no science without assumptions."
-"It goes from 'I'm gonna get the guy with the coolest call' to 'I'm gonna get the guy who's alive."
+* "It's great because it adds complexity, but it's bad because it adds complexity." - AC Carnaval (9/17/14)
+* "It's predictable, it's just stochastic!" - AC Carnaval 10/1/14
+* "Selection isn't survival of the fittest, it's reproduction of the good enough" - AC Carnaval 10/1/14
+* "Pattern doesn't equal process." "Time gives you diversity." "Go with feasible." "Natural selection is in your face!"
+* "You can't expect drift to do anything, it's completely random." - AC Carnaval
+* "There is no science without assumptions."
+* "It goes from 'I'm gonna get the guy with the coolest call' to 'I'm gonna get the guy who's alive."
 
 ## PopEcology
-"I'm not a wildlife manager. I eat wildlife, thats about it." RR (9/10/14)
-"It doesn't have to be a normal-ish distribution, it can be any kind of 'ish' that you want."
-"Significance doesn't actually mean much, which is part of the problem."
-"What's the death rate of 0 individuals." - Population ecology
-"Transience is the permanent state." RR Pop Ecology
-"We didn't sort this out until we started looking at duck poop."
-"Everyone wants an -omics now."
-"You don't exit age class 3. You just die." - RR Pop Ecology
-"You don't have to know things that are usually not knowable."
-"One of the things continuous time models rely on is continuous time."
-"We have this reality that we found, or fabricated..."
-"You can never prove that all swans are white."
-"I have not diapered a goose, and I don't intend to."
-"The average north american hunter acts as a passive sampler."
-"Density dependence only works if you don't cheat."
-"Graminoids have always been eaten by someone."
+* "I'm not a wildlife manager. I eat wildlife, thats about it." RR (9/10/14)
+* "It doesn't have to be a normal-ish distribution, it can be any kind of 'ish' that you want."
+* "Significance doesn't actually mean much, which is part of the problem."
+* "What's the death rate of 0 individuals." - Population ecology
+* "Transience is the permanent state." RR Pop Ecology
+* "We didn't sort this out until we started looking at duck poop."
+* "Everyone wants an -omics now."
+* "You don't exit age class 3. You just die." - RR Pop Ecology
+* "You don't have to know things that are usually not knowable."
+* "One of the things continuous time models rely on is continuous time."
+* "We have this reality that we found, or fabricated..."
+* "You can never prove that all swans are white."
+* "I have not diapered a goose, and I don't intend to."
+* "The average north american hunter acts as a passive sampler."
+* "Density dependence only works if you don't cheat."
+* "Graminoids have always been eaten by someone."
 
 ## Systematics
-"You don't get anywhere in life doing cladistics."
-"If you're not wrong in science you're religious."
-"The things that are certain are obviously certain."
-"Like an old man getting into a warm bath." No context at all.
+* "You don't get anywhere in life doing cladistics."
+* "If you're not wrong in science you're religious."
+* "The things that are certain are obviously certain."
+* "Like an old man getting into a warm bath." No context at all.
 
 ## AnimalBehavior
-"A list of items is a terrible thing."
-"A lot of people say clams don't have behavior... but they do." - JBasil
-"This is a great time of year if you enjoy birding standing in the snow." - JBasil
-"Comfortable with uncertainty."
-"Slightly more perfect."
-"The best side is the one everbody else is on."
-"Optimization has historical constraints."
-"Edible & dangerous."
-"I don't know how long forever is"
-"Romantic aroma"
-"I'm chewing my brain off, but if we all chew it feels good."
-"Dance of honesty & cheating."
-"Selection is your friend."
-"There's a lot of evolution going on."
+* "A list of items is a terrible thing."
+* "A lot of people say clams don't have behavior... but they do." - JBasil
+* "This is a great time of year if you enjoy birding standing in the snow." - JBasil
+* "Comfortable with uncertainty."
+* "Slightly more perfect."
+* "The best side is the one everbody else is on."
+* "Optimization has historical constraints."
+* "Edible & dangerous."
+* "I don't know how long forever is"
+* "Romantic aroma"
+* "I'm chewing my brain off, but if we all chew it feels good."
+* "Dance of honesty & cheating."
+* "Selection is your friend."
+* "There's a lot of evolution going on."
 
 ## Random
 
@@ -77,12 +77,13 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 "I'm a historian, so I believe in history, right?" - GC Pres Robinson
 
 "For the moment, what we attend to is reality." - W James (5/6/15)
+
 "If it's not the imagination, it's not working." - 3/12/15
 
-"Free spirits believe in the oneness w/ god."
-"Search for charms."
-"The incarnation should teach contentment with the flesh."
-"Uniquely gifted for illuminations."
+* "Free spirits believe in the oneness w/ god."
+* "Search for charms."
+* "The incarnation should teach contentment with the flesh."
+* "Uniquely gifted for illuminations."
 - Possession & witchcraft in 17th century France (3/19/15)
 
 "Appearance is a state of mind."
