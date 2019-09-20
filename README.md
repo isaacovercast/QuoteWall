@@ -91,6 +91,7 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 
 "Models aren't evidence." - (5/27/15)
 
+# 2015/2016
 "I wouldn't say it's from lack of trying. There is some lack of trying." (9/24)
 
 "You can't sample from things that don't exist." (9/24/15)
@@ -162,7 +163,8 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 * "Measuring a whale out of water can be problematic." - GSella 3/31/16
 * "That's why god invented statistics." - GSella 4/5/16
 
-# sDIV
+# 2018
+## sDIV
 * "It probably brackets the truth." - LHarm
 * "I'm just trying to maximize entropy." 
 * "This function is known, but it's messy."
