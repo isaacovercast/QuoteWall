@@ -32,7 +32,7 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 * "You don't get anywhere in life doing cladistics."
 * "If you're not wrong in science you're religious."
 * "The things that are certain are obviously certain."
-* "Like an old man getting into a warm bath." No context at all.
+* "Like an old man getting into a warm bath." - How to put a gel into the electrophoresis chamber.
 
 ## AnimalBehavior
 * "A list of items is a terrible thing."
@@ -49,6 +49,7 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 * "Dance of honesty & cheating."
 * "Selection is your friend."
 * "There's a lot of evolution going on."
+* "I always work with animals that eat more expensive food than I do."
 
 ## Random
 
@@ -87,8 +88,6 @@ Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
 - Possession & witchcraft in 17th century France (3/19/15)
 
 "Appearance is a state of mind."
-
-"I always work with animals that eat more expensive food than I do." - J.B.
 
 "Models aren't evidence." - (5/27/15)
 
