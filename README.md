@@ -1,4 +1,4 @@
-Just a bunch of poetical/hilarious/surprising/interesting stuff people said.
+Just a bunch of stuff people said.
 
 # 2014/2015
 ## Evolution
