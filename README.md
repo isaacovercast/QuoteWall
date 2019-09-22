@@ -218,6 +218,8 @@ Just a bunch of stuff people said.
 
 "New age technology."
 
+"You know what it means to look at a really nice alignment." - SEdwards
+
 ## Island biology 2019
 * "Surely the moth is in the drivers seat."
 * "Large mammal herbivores are on average bad dispersers.
