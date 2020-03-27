@@ -254,6 +254,13 @@ Just a bunch of stuff people said.
 * Small grants are judged on bang for the buck.
 "I find pigeons intimidating." - JieJie 9/20/19
 
+## 2020
+* "i'm one step away from opening a car wash and lemonade stand outside." -AK
+* "Go take care of your wet duck." -AK -> Skip
+* "I have never drank a martini and never spilled half of it on myself." -AK
+* "My eggs are worth like $10 dollars right now." - AK
+* "I haven't been unbearded since like 2001." - Sean
+
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
