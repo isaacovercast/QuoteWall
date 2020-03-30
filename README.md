@@ -260,6 +260,7 @@ Just a bunch of stuff people said.
 * "I have never drank a martini and never spilled half of it on myself." -AK
 * "My eggs are worth like $10 dollars right now." - AK
 * "I haven't been unbearded since like 2001." - Sean
+* "It's only limiting if that's what you allow yourself to believe." - IO (03/30)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
