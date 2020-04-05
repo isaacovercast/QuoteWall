@@ -261,6 +261,9 @@ Just a bunch of stuff people said.
 * "My eggs are worth like $10 dollars right now." - AK
 * "I haven't been unbearded since like 2001." - Sean
 * "It's only limiting if that's what you allow yourself to believe." - IO (03/30)
+* "I hate other animals for being not my dog." - AK (04/05)
+* "I had an injured pigeon and the rat tried to kill it." - RJ (04/05)
+* "If i could stop eating regular food and get nutrition from this I would do it." - AK (re: sour Mike and ikes)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
