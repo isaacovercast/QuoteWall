@@ -264,6 +264,7 @@ Just a bunch of stuff people said.
 * "I hate other animals for being not my dog." - AK (04/05)
 * "I had an injured pigeon and the rat tried to kill it." - RJ (04/05)
 * "If i could stop eating regular food and get nutrition from this I would do it." - AK (re: sour Mike and ikes)
+* "Hey, don't rain on my parade of raining on your parade, ok?" - IO (04/16)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
