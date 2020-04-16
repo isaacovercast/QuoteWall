@@ -280,4 +280,5 @@ Just a bunch of stuff people said.
 "Moreover, the Louvain and simulated-annealing algorithms are much more popular than spectral algorithms in investigations of community structure [14] __(and life is short)__, so we only compare results using the Louvain and simulatedannealing algorithms for the remainder of this appendix."
 * Onnela, Jukka-Pekka, et al. "Taxonomies of networks from community structure." Physical Review E 86.3 (2012): 036104.
 
-
+"12. When the air is pure breathe all of it you can - breathe deeply."
+* Soper, A. "[The Lessons of the Pandemic.](https://science.sciencemag.org/content/sci/49/1274/501.full.pdf)" Science (1919): VOL. XLIX No. 1274
