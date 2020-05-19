@@ -265,6 +265,7 @@ Just a bunch of stuff people said.
 * "I had an injured pigeon and the rat tried to kill it." - RJ (04/05)
 * "If i could stop eating regular food and get nutrition from this I would do it." - AK (re: sour Mike and ikes)
 * "Hey, don't rain on my parade of raining on your parade, ok?" - IO (04/16)
+* "I don't even like these enough to eat them off the ground." - AK (5/19, re: sugarfree altoids) 
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
