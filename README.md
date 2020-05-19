@@ -252,7 +252,9 @@ Just a bunch of stuff people said.
 * What are your dependent variables? That is the program you should submit to.
 * The ecosystem that your proposal enters is different every round.
 * Small grants are judged on bang for the buck.
-"I find pigeons intimidating." - JieJie 9/20/19
+
+## 2019
+* "I find pigeons intimidating." - JieJie 9/20/19
 
 ## 2020
 * "i'm one step away from opening a car wash and lemonade stand outside." -AK
