@@ -179,6 +179,7 @@ Just a bunch of stuff people said.
 * "I'm embarassingly homozygous here."
 * "It is better to deal with real reviewers than imaginary ones." - LHarm
 * "Sometimes you just never notice things." MRuff
+* "I don't even know how to __spell__ DNA."
 
 # Genetics Evolution Process
 * "A gar is a better mouse than a zebra fish." - NShubin 4/20/18
@@ -268,6 +269,8 @@ Just a bunch of stuff people said.
 * "If i could stop eating regular food and get nutrition from this I would do it." - AK (re: sour Mike and ikes)
 * "Hey, don't rain on my parade of raining on your parade, ok?" - IO (04/16)
 * "I don't even like these enough to eat them off the ground." - AK (5/19, re: sugarfree altoids) 
+* "All problems are rhetorical. - AK (6/23)
+* "Sometimes we just have to not find solutions to our problems and just dwell in them." - AK (6/23)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
