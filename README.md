@@ -264,6 +264,7 @@ Just a bunch of stuff people said.
 * "My eggs are worth like $10 dollars right now." - AK
 * "I haven't been unbearded since like 2001." - Sean
 * "It's only limiting if that's what you allow yourself to believe." - IO (03/30)
+* "Words! Words are like sex, and drugs, AND rock and roll!" - SS (Late winter)
 * "I hate other animals for being not my dog." - AK (04/05)
 * "I had an injured pigeon and the rat tried to kill it." - RJ (04/05)
 * "If i could stop eating regular food and get nutrition from this I would do it." - AK (re: sour Mike and ikes)
