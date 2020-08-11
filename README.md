@@ -272,6 +272,7 @@ Just a bunch of stuff people said.
 * "I don't even like these enough to eat them off the ground." - AK (5/19, re: sugarfree altoids) 
 * "All problems are rhetorical. - AK (6/23)
 * "Sometimes we just have to not find solutions to our problems and just dwell in them." - AK (6/23)
+* "Species delimitation. Why can't we just let god sort them out?" - AK (8/11)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
