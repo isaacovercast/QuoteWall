@@ -273,6 +273,7 @@ Just a bunch of stuff people said.
 * "All problems are rhetorical. - AK (6/23)
 * "Sometimes we just have to not find solutions to our problems and just dwell in them." - AK (6/23)
 * "Species delimitation. Why can't we just let god sort them out?" - AK (8/11)
+* "i could fake an entire dissertation with figures." - AK (9/22)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
