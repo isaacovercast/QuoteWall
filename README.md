@@ -275,6 +275,7 @@ Just a bunch of stuff people said.
 * "Species delimitation. Why can't we just let god sort them out?" - AK (8/11)
 * "i could fake an entire dissertation with figures." - AK (9/22)
 * "Nothing is ever perfect you just have to make progress in the imperfection." - IO (10/13)
+* "Nothing that comes from the hamster is ever in order." - AK (10/16)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
