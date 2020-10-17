@@ -276,6 +276,7 @@ Just a bunch of stuff people said.
 * "i could fake an entire dissertation with figures." - AK (9/22)
 * "Nothing is ever perfect you just have to make progress in the imperfection." - IO (10/13)
 * "Nothing that comes from the hamster is ever in order." - AK (10/16)
+* "There's no sense in trying to understand people's excentricities." - IO (10/17)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
