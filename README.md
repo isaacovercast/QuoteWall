@@ -277,6 +277,10 @@ Just a bunch of stuff people said.
 * "Nothing is ever perfect you just have to make progress in the imperfection." - IO (10/13)
 * "Nothing that comes from the hamster is ever in order." - AK (10/16)
 * "There's no sense in trying to understand people's excentricities." - IO (10/17)
+* On what might happen if you eat a tiger snake - AMNH Herp Dept Chat (10/23)
+ * "Wonder what it makes your butthole feel like on the way out. Like hotwings. only worse." - LV
+ * "Chili poop. probably" - MS
+
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
