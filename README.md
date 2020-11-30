@@ -278,6 +278,7 @@ Just a bunch of stuff people said.
 * "Nothing that comes from the hamster is ever in order." - AK (10/16)
 * "There's no sense in trying to understand people's excentricities." - IO (10/17)
 * On what might happen if you eat a tiger snake: "Wonder what it makes your butthole feel like on the way out. Like hotwings. only worse." (LV) "Chili poop. probably" (MS) - AMNH Herp Dept Chat (10/23)
+* "The sun burns and it has a mind of its own." - Anon (11/30)
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
