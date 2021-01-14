@@ -280,6 +280,9 @@ Just a bunch of stuff people said.
 * On what might happen if you eat a tiger snake: "Wonder what it makes your butthole feel like on the way out. Like hotwings. only worse." (LV) "Chili poop. probably" (MS) - AMNH Herp Dept Chat (10/23)
 * "The sun burns and it has a mind of its own." - Anon (11/30)
 
+## 2021
+* "this is my punishment for letting this data and these scripts sit around for months. they age like fresh produce." -AK (1/14)
+
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
