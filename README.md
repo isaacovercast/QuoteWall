@@ -282,7 +282,7 @@ Just a bunch of stuff people said.
 
 ## 2021
 * "this is my punishment for letting this data and these scripts sit around for months. they age like fresh produce." -AK (1/14)
-
+* "Lets not start solving problems we don't have yet." - IO (2/21)
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
