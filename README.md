@@ -256,6 +256,7 @@ Just a bunch of stuff people said.
 
 ## 2019
 * "I find pigeons intimidating." - JieJie 9/20/19
+* "You people need to get a hobby" - JC on ghost populations
 
 ## 2020
 * "i'm one step away from opening a car wash and lemonade stand outside." -AK
@@ -283,6 +284,35 @@ Just a bunch of stuff people said.
 ## 2021
 * "this is my punishment for letting this data and these scripts sit around for months. they age like fresh produce." -AK (1/14)
 * "Lets not start solving problems we don't have yet." - IO (2/21)
+* "I do that every day with neutral nets" - Anon
+* "Kidney beans are the peanuts of the bean world. no body’s favorite, but omnipresent." - IO
+* "Programs are puppies. Every puppy should have its own crate" - IO
+* "Nothing that comes from the hamster is ever in order." - IO
+* "Well that was an adventure in boringness" - IO
+* "Nah, I don’t care about RNA, I just assume it doesn’t exist" - SH
+* "If we looked at the difference between when anyone thinks a paper will be submitted and when it actually is submitted. Its exponentially distributed with a mean of infinity" - IO
+* "Nothing is ever perfect you just have to make progress in the imperfection." -IO
+* "always use conda for everything" - IO
+* "Would be cool in the future for the hamster not to threaten to throw herself out the window and burn down the department in the face of adversity" - IO
+* "And then you can move to Canada and.spend time in the mountains and have money" - SH
+* "Going over the time limit is a cardinal sin" - on giving talks
+* "I fucking love gene flow in secondary contact" - SH
+* "It’s ALWAYS reviewer 2" - IO
+* "The intangible benefit of one pot cooking is there’s one pot to clean up at the end" -IO
+* "everything works well when you know literally as much about a system as possible and have more money than god" - SH on Heliconius studies
+* "Tiny chameleon exists" is much easier to understand for the average jerk than "patterns of genetic diversity within and among populations are driven by a mixture of geographic and environmental distances that varies depending on the analytical scale" - SH 
+* Too much fancy talk is not always the best thing anyway. keep it simple" - IO on writing a paper
+* Every analysis I run takes eternity, nothing in my life has a sense of real time except going pee or drinking a cup of water" - FB
+* The draw polygon function in R, man I use that every fucking day" - FB
+* "Instead of all models are wrong some are useful, they give us “What does the best of a narrow set of bad models tell us about biology?" - MH
+* "I’m gonna make the list on paper because my head is unreliable" - IO 
+* "No body hates things like skip hates things." -SR
+* "Time to simulate some baby data" - IO
+* "People say you can't run from your problems, but as long as your problems aren't the police hunting you down or something, you totally can" - SH
+* "Just because something can be done doesn’t mean it should be." - Reviewer 2
+* "…showed poor scholarship and the analyses run seemed to include everything in the kitchen sink" - Reviewer 2
+* "Glad you hopped on the codemographic train, let’s hope there won’t be too many crashes" - MH
+
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
