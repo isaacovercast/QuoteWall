@@ -33,6 +33,7 @@ Just a bunch of stuff people said.
 * "If you're not wrong in science you're religious."
 * "The things that are certain are obviously certain."
 * "Like an old man getting into a warm bath." - How to put a gel into the electrophoresis chamber.
+* "For me, March Madness is when the salamanders come out."
 
 ## AnimalBehavior
 * "A list of items is a terrible thing."
