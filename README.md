@@ -313,6 +313,7 @@ Just a bunch of stuff people said.
 * "Just because something can be done doesn’t mean it should be." - Reviewer 2
 * "…showed poor scholarship and the analyses run seemed to include everything in the kitchen sink" - Reviewer 2
 * "Glad you hopped on the codemographic train, let’s hope there won’t be too many crashes" - MH
+* "I don't like being root for a long time, it's like holding a gun but not using it." - LO 7/23
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
