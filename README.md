@@ -316,6 +316,7 @@ Just a bunch of stuff people said.
 * "I don't like being root for a long time, it's like holding a gun but not using it." - LO 7/23
 * "Never underestimate the power of paying attention to shit" - IO 4/31
 * "I love trash snakes because they make for great phylogeographic sampling." - Unattributed 5/1 (but probably SH or AK)
+* "Give it more time and they will all become extinct." - 10/11 FB
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
