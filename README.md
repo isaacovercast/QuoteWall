@@ -307,7 +307,7 @@ Just a bunch of stuff people said.
 * The draw polygon function in R, man I use that every fucking day" - FB
 * "Instead of all models are wrong some are useful, they give us “What does the best of a narrow set of bad models tell us about biology?" - MH
 * "I’m gonna make the list on paper because my head is unreliable" - IO 
-* "No body hates things like skip hates things." -SR
+* "Nobody hates things like skip hates things." -SR
 * "Time to simulate some baby data" - IO
 * "People say you can't run from your problems, but as long as your problems aren't the police hunting you down or something, you totally can" - SH
 * "Just because something can be done doesn’t mean it should be." - Reviewer 2
@@ -318,6 +318,7 @@ Just a bunch of stuff people said.
 * "I love trash snakes because they make for great phylogeographic sampling." - Unattributed 5/1 (but probably SH or AK)
 * "Give it more time and they will all become extinct." - 10/11 FB
 * "I don't think we have any reason to believe that the truth is piecewise, right?" & "I don't know what we know about the truth." - 10/20 FHartig
+* "If there's nothing invariant you don't have data." - 11/2 BMenard
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
