@@ -322,6 +322,9 @@ Just a bunch of stuff people said.
 * "Well grants are annoying, that's why they aren't free" - IO
 * "Every back burner I have has a backburner of it's own and I don't know how far it goes." - IO
 
+## 2022
+* "I did not present that data because it is too fresh." - Anon 1/12
+
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
