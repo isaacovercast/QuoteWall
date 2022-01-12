@@ -330,6 +330,7 @@ Just a bunch of stuff people said.
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
 * "Sometimes you have to close the tabs and accept the fact that you're never going back to those tabs."
 * "I'm 99% sure I have a pretty lumpy head." - 10/22/15
+* "You pick your own misery." - 1/12/22
 
 # From Papers
 
