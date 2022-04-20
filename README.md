@@ -324,6 +324,7 @@ Just a bunch of stuff people said.
 
 ## 2022
 * "I did not present that data because it is too fresh." - Anon 1/12
+* "It's amazing how informative pi can be!" - A.Pop. 3/?
 * "If you're really into eating pigeons, falconry is a great sport." - E.Stan. UF 4/14
 * "Go 'machine learning' your way out of that one." - R.G. UF 4/15
 * "The more I learn about aquatic invertebrates the less I want to swim." - Z.W. 4/18
