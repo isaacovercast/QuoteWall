@@ -330,6 +330,7 @@ Just a bunch of stuff people said.
 * "The more I learn about aquatic invertebrates the less I want to swim." - Z.W. 4/18
 * "'I have to pick up and move and I'm not coming home' dispersal." - B.M. 4/18, describing a new dispersal syndrome
 * "The uterus of a snake is the least interesting thing i can think of besides maybe the uterus of a human." - A.K. 5/6
+* "Theres no 5 second rule for buffalo chicken" - I.O. 5/13
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
