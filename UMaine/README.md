@@ -3,3 +3,6 @@
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
+* ""Birders go to the places that they like to go birdwatching."
+* "We could get away with fudging it."
+* "I'm a fan of the 'rocks keep reproducing' until they are replaced by things that are living."
