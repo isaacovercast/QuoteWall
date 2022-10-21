@@ -6,3 +6,4 @@
 * ""Birders go to the places that they like to go birdwatching."
 * "We could get away with fudging it."
 * "I'm a fan of the 'rocks keep reproducing' until they are replaced by things that are living."
+* "And what does Dudu do?" - RG
