@@ -6,6 +6,7 @@
 * "I don't make a habit of pranking myself." - IO 10/21/22
 * "I'm not a hippy, I'm just lazy." - AR 10/25/22
 * "That's what science is... sacrificing cute stories to data." - RD 11/3/22
+* "Gene flow doesn't care about taxonomy." - IO 11/4/22
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
