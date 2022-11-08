@@ -15,3 +15,8 @@
 * "We could get away with fudging it."
 * "I'm a fan of the 'rocks keep reproducing' until they are replaced by things that are living."
 * "And what does Dudu do?" - RG
+
+## November 2022 - CalAcademy Visit
+* "Frogs are more like insects." - RB
+* "We can do an expedition into our own collections." - LE
+* "As long as it's forest it's got forest stuff." - BF
