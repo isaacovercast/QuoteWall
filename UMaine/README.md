@@ -8,6 +8,7 @@
 * "That's what science is... sacrificing cute stories to data." - RD 11/3/22
 * "Gene flow doesn't care about taxonomy." - IO 11/4/22
 * "Often times I just collaborate with myself." - RD 11/6/22
+* "It's a way of counting legs on centipedes that u can't count the legs of." - AK 11/15/22 re: DNA barcoding
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
