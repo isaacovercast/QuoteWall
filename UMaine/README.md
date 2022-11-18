@@ -2,7 +2,7 @@
 * "I don't know much past the fashion of 1987." - FB 4/22
 * "The magic is where the bugs happen." - AJR & IO 5/5/22
 * "At some level nature must be symmetrical."
-* I convinced myself to not worry about time."
+* "I convinced myself to not worry about time."
 * "I don't make a habit of pranking myself." - IO 10/21/22
 * "I'm not a hippy, I'm just lazy." - AR 10/25/22
 * "That's what science is... sacrificing cute stories to data." - RD 11/3/22
