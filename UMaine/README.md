@@ -10,6 +10,7 @@
 * "Often times I just collaborate with myself." - RD 11/6/22
 * "It's a way of counting legs on centipedes that u can't count the legs of." - AK 11/15/22 re: DNA barcoding
 * "I did a lot of trespassing when I was a graduate student." - TJack 11/18/22
+* "It's hard to quantify 'annoying'." - IO 11/22/22
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
