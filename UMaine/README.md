@@ -12,6 +12,7 @@
 * "I did a lot of trespassing when I was a graduate student." - TJack 11/18/22
 * "It's hard to quantify 'annoying'." - IO 11/22/22
 * "The plural of 'bioblitz' is not a pretty word." - AK 11/27/22
+* "Right now my to-dos are mostly to write emails." - AR 11/29/22
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
