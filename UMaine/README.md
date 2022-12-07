@@ -33,5 +33,6 @@
 * "There's too much data, in some ways." - MH
 * "If we're unteathered by reality, we can ask any question that we want." - AR
 * "That sounds annoying, but it doesn't sound impossible." - IO
+* "I'm committed to being moody about lights." - LS
 
 
