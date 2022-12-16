@@ -13,6 +13,7 @@
 * "It's hard to quantify 'annoying'." - IO 11/22/22
 * "The plural of 'bioblitz' is not a pretty word." - AK 11/27/22
 * "Right now my to-dos are mostly to write emails." - AR 11/29/22
+* "I have an appetite for METE." - AR 12/15/22
 
 ## October 2022 - RoLE Annual Meeting
 * "My knowledge is 99% spiders." - RG
