@@ -13,7 +13,7 @@
 * "I have never speciated." "Your waiting time is just long."
 * "I'm embarassingly homozygous here."
 * "It is better to deal with real reviewers than imaginary ones." - LHarm
-* "Sometimes you just never notice things." MRuff
+* "Sometimes you just never notice things."
 * "I don't even know how to __spell__ DNA."
 
 ### 20 Mar 2018
