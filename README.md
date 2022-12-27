@@ -165,23 +165,6 @@ Just a bunch of stuff people said.
 * "That's why god invented statistics." - GSella 4/5/16
 
 # 2018
-## sDIV
-* "It probably brackets the truth." - LHarm
-* "I'm just trying to maximize entropy." 
-* "This function is known, but it's messy."
-* "The island looks huge if you're a nematode."
-* "I know a whole bunch of people who want to explain the kink w/o evolution."
-* "The synthesis of the kink in this relationship."
-* "We need a figure looking at some evolutionary stuff."
-* "There's no way the snail crawled up the volcano."
-* "It's the margins of 'roughly' that'll bite us."
-* "How willing are you to give the data a break."
-* "I have never speciated." "Your waiting time is just long."
-* "I'm embarassingly homozygous here."
-* "It is better to deal with real reviewers than imaginary ones." - LHarm
-* "Sometimes you just never notice things." MRuff
-* "I don't even know how to __spell__ DNA."
-
 # Genetics Evolution Process
 * "A gar is a better mouse than a zebra fish." - NShubin 4/20/18
 * "Nothing ever begins at the time you think it did." - LHellman 4/20/18
