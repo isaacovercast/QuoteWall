@@ -30,7 +30,7 @@
 * “Question mark doesn’t imply lack of enthusiasm.”
 * “If you’ve got ten, then you might as well go to eleven.”
 * “There are some new heterogeneities that we need to account for.”
-* "The amount of work required to do science is much than us just sitting here for five days. The idea is to have allopatric diversification of ideas."
+* "The amount of work required to do science is much more than us just sitting here for five days. The idea is to have allopatric diversification of ideas."
 
 ### 22 Mar 2018
 * “Maybe I’m too stuck in Hawaii.”
