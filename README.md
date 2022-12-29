@@ -314,6 +314,7 @@ Just a bunch of stuff people said.
 * "'I have to pick up and move and I'm not coming home' dispersal." - B.M. 4/18, describing a new dispersal syndrome
 * "The uterus of a snake is the least interesting thing i can think of besides maybe the uterus of a human." - A.K. 5/6
 * "Theres no 5 second rule for buffalo chicken" - I.O. 5/13
+* "I like studying species that I can work on in shorts and a tank top." - A.K. 12/29
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
