@@ -316,6 +316,9 @@ Just a bunch of stuff people said.
 * "Theres no 5 second rule for buffalo chicken" - I.O. 5/13
 * "I like studying species that I can work on in shorts and a tank top." - A.K. 12/29
 
+## 2023
+* "You care about Hardy-Weinberg equilibrium every day, you just don't know it." - A.K. 1/7
+
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
