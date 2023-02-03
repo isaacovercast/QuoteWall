@@ -320,6 +320,7 @@ Just a bunch of stuff people said.
 * "You care about Hardy-Weinberg equilibrium every day, you just don't know it." - A.K. 1/7
 * "I write a 2013 dissertation a day." - F.B. 1/14
 * "The internet is an ascertainment bias machine." - I.O. 1/28
+* "I'm updating my prior." "On what?" "Pyjamas." - A.K. 2/2, fully talking in sleep.
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
