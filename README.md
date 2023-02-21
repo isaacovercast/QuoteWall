@@ -321,6 +321,7 @@ Just a bunch of stuff people said.
 * "I write a 2013 dissertation a day." - F.B. 1/14
 * "The internet is an ascertainment bias machine." - I.O. 1/28
 * "I'm updating my prior." "On what?" "Pyjamas." - A.K. 2/2, fully talking in sleep.
+* "We gotta talk about taxonomy." - A.R. 2/21
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
