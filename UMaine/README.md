@@ -27,7 +27,7 @@
 * "We can do an expedition into our own collections." - LE
 * "As long as it's forest it's got forest stuff." - BF
 
-## December 2023 - Misc
+## December 2022 - Misc
 * "I'll throw a little warm water to Andy's cold water." - MH
 * "I love discussing things, but not writing them." - OH
 * "I hesitate to abuse the word 'parameters'." - AR
@@ -36,4 +36,5 @@
 * "That sounds annoying, but it doesn't sound impossible." - IO
 * "I'm committed to being moody about lights." - LS
 
-
+## February 2023 - Misc
+* "A model is just a big trashcan of information." - AR
