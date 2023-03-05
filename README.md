@@ -323,6 +323,7 @@ Just a bunch of stuff people said.
 * "I'm updating my prior." "On what?" "Pyjamas." - A.K. 2/2, fully talking in sleep.
 * "We gotta talk about taxonomy." - A.R. 2/21
 * "I'm haunted by deadlines." - H. Krehn 2/28
+* "The best person to do favors for is yourself in the future." - I.O. 3/4
 
 # AK
 * "People can't get enough of hemipenes." - (9/24/15)
