@@ -326,11 +326,12 @@ Just a bunch of stuff people said.
 * "The best person to do favors for is yourself in the future." - I.O. 3/4
 
 # AK
-* "People can't get enough of hemipenes." - (9/24/15)
+* "People can't get enough of hemipenes." - 9/24/15
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
 * "Sometimes you have to close the tabs and accept the fact that you're never going back to those tabs."
 * "I'm 99% sure I have a pretty lumpy head." - 10/22/15
 * "You pick your own misery." - 1/12/22
+* "If I had a mind palace it would be burned to the ground by now." - 3/6/23
 
 # From Papers
 
