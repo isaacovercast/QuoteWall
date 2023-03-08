@@ -39,3 +39,6 @@
 ## February 2023 - Misc
 * "A model is just a big trashcan of information." - AR
 * "At the end of the day we're just trying to justify approximations." - AR
+
+## March 2023 - Misc
+* "It's like chatGPT and the metaverse, but for ecology." - AR
