@@ -42,3 +42,4 @@
 
 ## March 2023 - Misc
 * "It's like chatGPT and the metaverse, but for ecology." - AR
+* "You'd think that as a paleoecologist i'd have a good handle on time." - JGill
