@@ -324,6 +324,7 @@ Just a bunch of stuff people said.
 * "We gotta talk about taxonomy." - A.R. 2/21
 * "I'm haunted by deadlines." - H. Krehn 2/28
 * "The best person to do favors for is yourself in the future." - I.O. 3/4
+* "Even to do nothing is a lot of work." - I.O. 4/12
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
