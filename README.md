@@ -325,6 +325,7 @@ Just a bunch of stuff people said.
 * "I'm haunted by deadlines." - H. Krehn 2/28
 * "The best person to do favors for is yourself in the future." - I.O. 3/4
 * "Even to do nothing is a lot of work." - I.O. 4/12
+* "That's the problem with stray dogs, they bite!" - I.O. 4/26
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
