@@ -44,3 +44,6 @@
 * "It's like chatGPT and the metaverse, but for ecology." - AR
 * "You'd think that as a paleoecologist i'd have a good handle on time." - JGill
 * "Most of my stuff doesn't require permits because nobody cares about mud." - JGill
+
+## May 2023 - Misc
+* "Things can be squeaky and still run." - RD, on the difference between a 'breaking change' and a 'squeaky change' in sw.
