@@ -47,3 +47,6 @@
 
 ## May 2023 - Misc
 * "Things can be squeaky and still run." - RD, on the difference between a 'breaking change' and a 'squeaky change' in sw.
+
+## June 2023 - RoLE workshop
+* "Phylogeneticists in here, we love thinking about a common ancestor" - C.F.
