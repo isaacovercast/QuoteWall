@@ -50,3 +50,13 @@
 
 ## June 2023 - RoLE workshop
 * "Phylogeneticists in here, we love thinking about a common ancestor" - C.F.
+* "You're sampling from a small bag." - C.F. (small Ne population)
+* "I don't know if people think about the last glacial maximum a lot?" - CF
+* "I only did 2 allele copies. I know, I'm an underachiever." - CF
+* "You're having your cake and eating it too." - CF
+* "Does anyone have questions? Reviewer 2 had a _lot_ of questions." - CF
+* "With copy/pasting the mutation rate is high, so you want to avoid it." - CF
+* "We are going to do something a little fancy here, we are going to do 'Regular expressions.'" - CF
+* "Everything's a beetle." - CF
+* "The feeling of power after you do this will be just as good as coffee." - CF (on writing a function in R)
+* "In R there's multiple ways to skin a cat." - CF
