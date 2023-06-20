@@ -60,3 +60,5 @@
 * "Everything's a beetle." - CF
 * "The feeling of power after you do this will be just as good as coffee." - CF (on writing a function in R)
 * "In R there's multiple ways to skin a cat." - CF
+* "... because the simulation told me so." - JA
+* "Let me just grossly abuse the privileges of zoom here." - RD
