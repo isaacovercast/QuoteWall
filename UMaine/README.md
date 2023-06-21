@@ -62,3 +62,5 @@
 * "In R there's multiple ways to skin a cat." - CF
 * "... because the simulation told me so." - JA
 * "Let me just grossly abuse the privileges of zoom here." - RD
+* "... because the simulation told me so." - JA
+* "Let me just grossly abuse the privileges of zoom here." - RD
