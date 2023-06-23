@@ -64,3 +64,7 @@
 * "Let me just grossly abuse the privileges of zoom here." - RD
 * "... because the simulation told me so." - JA
 * "Let me just grossly abuse the privileges of zoom here." - RD
+
+## June 2023 - Evolution Conference
+* "Doing it ALL backward!" -CF (the future French lab motto)
+* "Frogs hold a special place in my heart" - CF
