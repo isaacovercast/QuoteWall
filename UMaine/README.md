@@ -62,8 +62,20 @@
 * "In R there's multiple ways to skin a cat." - CF
 * "... because the simulation told me so." - JA
 * "Let me just grossly abuse the privileges of zoom here." - RD
-* "... because the simulation told me so." - JA
-* "Let me just grossly abuse the privileges of zoom here." - RD
+
+### RoLE workshop 2023 - Guest quotewall curator YSI
+It’s not complicated, you just model it.
+Computers can slay us, it is over.
+I don’t think Mario cart has a sense of physics or rules of gravity.
+The past few days were like eating your vegetables, the next days will be like eating the icing on the cake.
+Refresh till you can’t refresh no more.
+Why? Because the simulation told me so.
+Star Trek style speciation rates, it is great.
+I love making these plots cause they are very beautiful and hypnotic.
+Let me just grossely abuse the priviledges of zoom here.
+Over time as a scientist, you learn how to squint.
+If everyone is eliminated, everyone is screwed and you are back to being neutral.
+Everyone loves space.
 
 ## June 2023 - Evolution Conference
 * "Doing it ALL backward!" -CF (the future French lab motto)
