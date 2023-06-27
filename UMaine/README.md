@@ -66,6 +66,8 @@
 * "In R there's multiple ways to skin a cat." - CF
 * "... because the simulation told me so." - JA
 * "Let me just grossly abuse the privileges of zoom here." - RD
+* "If you want to ruin a run, go with a botanist." - RD, because they stop to smell the roses.
+
 
 ### RoLE workshop 2023 - Guest quotewall curator YSI
 * It’s not complicated, you just model it.
