@@ -165,8 +165,9 @@ Just a bunch of stuff people said.
 * "That's why god invented statistics." - GSella 4/5/16
 
 # 2017
-* "Counting cats is not easy, even if they're big ones...." - LB 9/18
-* 
+* "Most of what i use my computer for is a television" - Jesse 6/14
+* "Counting cats is not easy, even if they're big ones...." - LB 9/18 
+
 # 2018
 # Genetics Evolution Process
 * "A gar is a better mouse than a zebra fish." - NShubin 4/20/18
