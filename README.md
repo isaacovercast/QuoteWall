@@ -234,6 +234,7 @@ Just a bunch of stuff people said.
 ## 2019
 * "I find pigeons intimidating." - JieJie 9/20/19
 * "You people need to get a hobby" - JC on ghost populations
+* "All you do at workshops is drink with people and feel like you're being productive." - Anon 8/2
 
 ## 2020
 * "I'm one step away from opening a car wash and lemonade stand outside." -AK
