@@ -166,6 +166,7 @@ Just a bunch of stuff people said.
 
 # 2017
 * "Most of what i use my computer for is a television" - Jesse 6/14
+* "Can't put the genie back in the bottle" - Anon 7/21
 * "Counting cats is not easy, even if they're big ones...." - LB 9/18 
 
 # 2018
