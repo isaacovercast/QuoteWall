@@ -299,6 +299,10 @@ Just a bunch of stuff people said.
 * "I don't like being root for a long time, it's like holding a gun but not using it." - LO 7/23
 * "Never underestimate the power of paying attention to shit" - IO 4/31
 * "I love trash snakes because they make for great phylogeographic sampling." - Unattributed 5/1 (but probably SH or AK)
+* "I'm letting my brain catch up with my ambition." - Anon 5/30
+* "I honestly don't think that far past breakfast." - FB 5/30
+* "I was in the seadoo gulag of his mind." - SS
+* The novelty conceals the uphillness." -IO
 * "Give it more time and they will all become extinct." - 10/11 FB
 * "I don't think we have any reason to believe that the truth is piecewise, right?" & "I don't know what we know about the truth." - 10/20 FHartig
 * "If there's nothing invariant you don't have data." - 11/2 BMenard
