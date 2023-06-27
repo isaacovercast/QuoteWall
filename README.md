@@ -180,30 +180,19 @@ Just a bunch of stuff people said.
 * "I can tell you precisely about the genetics and kind of mumble about the archaeology." DReich
 
 # Random
-
-"Space has always been an enigma in population genetics."
-
-"We call land plants 'dry algae'" - R. Sleith
-
-"It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
-
-"It's not just chicken soup recipes." - M. Hick on genealogical inheritence beyond genetics.
-
-"It's not 'cabalistic symbols' it's calculus." - UMartin 4/18/18
-
-"Computationally, this is a nasty formula." - CAne 11/8/18
-
-"We're bad at seeing when it doesn't happen."
-
-"The poster child of the ever-wet Carboniferous."
-
-"I'm an ecologist, I don't __do__ phylogenies."
-
-"I'm a scientist, I don't "believe" in things."
-
-"New age technology."
-
-"You know what it means to look at a really nice alignment." - SEdwards
+* "Space has always been an enigma in population genetics."
+* "We call land plants 'dry algae'" - R. Sleith
+* "It works pretty well in terms of 'makes sense.'" - J. Patino on pragmatism.
+* "It's not just chicken soup recipes." - M. Hick on genealogical inheritence beyond genetics.
+* "It's not 'cabalistic symbols' it's calculus." - UMartin 4/18/18
+* "Wildlife are lazy , if there's a trail theyll use it." -LBertola 7/13
+* "Computationally, this is a nasty formula." - CAne 11/8/18
+* "We're bad at seeing when it doesn't happen."
+* "The poster child of the ever-wet Carboniferous."
+* "I'm an ecologist, I don't __do__ phylogenies."
+* "I'm a scientist, I don't "believe" in things."
+* "New age technology."
+* "You know what it means to look at a really nice alignment." - SEdwards
 
 ## Island biology 2019
 * "Surely the moth is in the drivers seat."
