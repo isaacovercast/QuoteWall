@@ -236,7 +236,7 @@ Just a bunch of stuff people said.
 * "You people need to get a hobby" - JC on ghost populations
 
 ## 2020
-* "i'm one step away from opening a car wash and lemonade stand outside." -AK
+* "I'm one step away from opening a car wash and lemonade stand outside." -AK
 * "Go take care of your wet duck." -AK -> Skip
 * "I have never drank a martini and never spilled half of it on myself." -AK
 * "My eggs are worth like $10 dollars right now." - AK
@@ -257,6 +257,7 @@ Just a bunch of stuff people said.
 * "There's no sense in trying to understand people's excentricities." - IO (10/17)
 * On what might happen if you eat a tiger snake: "Wonder what it makes your butthole feel like on the way out. Like hotwings. only worse." (LV) "Chili poop. probably" (MS) - AMNH Herp Dept Chat (10/23)
 * "The sun burns and it has a mind of its own." - Anon (11/30)
+* "I earned my shine." - Anon
 
 ## 2021
 * "this is my punishment for letting this data and these scripts sit around for months. they age like fresh produce." -AK (1/14)
