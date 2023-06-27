@@ -234,6 +234,9 @@ Just a bunch of stuff people said.
 ## 2019
 * "My ultimate desire is to become a student of other very kind intelligent life teacher." - Shin Kubota 1/19
 * "All you do at workshops is drink with people and feel like you're being productive." - Anon 8/2
+* "Plants are wild and crazy." - Mariana 8/19
+* "Plants are wild, wild west." - Mariana 8/19
+* "Big M is where it's at." - Mike "Mr low tide" H. 8/19
 * "I find pigeons intimidating." - JieJie 9/20/19
 * "You people need to get a hobby" - JC on ghost populations
 
