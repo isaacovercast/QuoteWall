@@ -164,6 +164,9 @@ Just a bunch of stuff people said.
 * "Measuring a whale out of water can be problematic." - GSella 3/31/16
 * "That's why god invented statistics." - GSella 4/5/16
 
+# 2017
+* "Counting cats is not easy, even if they're big ones...." - LB 9/18
+* 
 # 2018
 # Genetics Evolution Process
 * "A gar is a better mouse than a zebra fish." - NShubin 4/20/18
