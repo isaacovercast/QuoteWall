@@ -54,33 +54,22 @@ Just a bunch of stuff people said.
 
 ## Random
 
-"You can only evaporate water if it's actually there." - B Cook
-
-"We don't have any data from the future." J McLachlan
-
-"There are a __lot__ of wrinkles to consider." - R Ree (11/25)
-
-"I don't believe anyone is guilty... ever, if you know the whole story." -MO
-
-"Take what data are generated and try to do something with it." - B Henn (12/1)
-
-"He was like a junkyard dog with a bone." M Hick (12/3)
-
-"Lots of things aren't in the first hundred, by definition..."
-
-"Luck happens when you have people who are prepared." - C Bustamante
-
-"Some people think it's creepy, I just think it's interesting." - C Mason
-
-"I would be very proud if I overestimated uncertainty." - M Tingley (1/30/15)
-
-"If you get it, you're gonna get it." - MHick (2/12/1)
-
-"I'm a historian, so I believe in history, right?" - GC Pres Robinson
-
-"For the moment, what we attend to is reality." - W James (5/6/15)
-
-"If it's not the imagination, it's not working." - 3/12/15
+* "You can only evaporate water if it's actually there." - B Cook
+* "We don't have any data from the future." J McLachlan
+* "There are a __lot__ of wrinkles to consider." - R Ree (11/25)
+* "I don't believe anyone is guilty... ever, if you know the whole story." -MO
+* "Take what data are generated and try to do something with it." - B Henn (12/1)
+* "He was like a junkyard dog with a bone." M Hick (12/3)
+* "Lots of things aren't in the first hundred, by definition..."
+* "Luck happens when you have people who are prepared." - C Bustamante
+* "Some people think it's creepy, I just think it's interesting." - C Mason
+* "I would be very proud if I overestimated uncertainty." - M Tingley (1/30/15)
+* "If you get it, you're gonna get it." - MHick (2/12/1)
+* "I'm a historian, so I believe in history, right?" - GC Pres Robinson
+* "For the moment, what we attend to is reality." - W James (5/6/15)
+* "If it's not the imagination, it's not working." - 3/12/15
+* "Appearance is a state of mind."
+* "Models aren't evidence." - (5/27/15)
 
 * "Free spirits believe in the oneness w/ god."
 * "Search for charms."
@@ -88,57 +77,32 @@ Just a bunch of stuff people said.
 * "Uniquely gifted for illuminations."
 - Possession & witchcraft in 17th century France (3/19/15)
 
-"Appearance is a state of mind."
-
-"Models aren't evidence." - (5/27/15)
-
 # 2015/2016
-"I wouldn't say it's from lack of trying. There is some lack of trying." (9/24)
-
-"You can't sample from things that don't exist." (9/24/15)
-
-"For some reason they like sex and sometimes they mate wrongly." - A Carvalho (9/30/15)
-
-"I don't use it, I just advertise it." 
-
-"The opportunity to use fancy machines is very attractive to me." - JKass (10/19/15)
-
-"Feasibility shock." - 10/22/15
-
-"Hard uncertainty vs soft uncertainty." - 10/22/15 ???
-
-"The problem isn't that you don't have the ingredients, the problem is the cooking." - Jampack
-
-"There are no buffers in life!" - MHick 11/17/15
-
-"It changes less than it stays the same." - TDoyle 11/30/15
-
-"I'm not gonna shoot it if I'm not gonna eat it." - RR
-
-"Taxonomy is a little bit above my paygrade." - MHick 3/3/16
-
-"I don't care about what's cool, I care about what's closest to the truth." - ACarnav 2/9/16
-
-"Complex, heterogeneous, and thus effectively unknown." - JNov 2/16/16
-
-"Pi is classically robust to sample size." Mhick 2/16
-
-"Depends on which side of the bed you get out of." - Mhick
-
-"That's a process that comes about as a function of things happening." - WPearse 3/2/16
-
-"Lets model it, man!" - MBlair 3/4/16
-
-"I don't know if further science would help." - MBlair 3/4/16
-
-"It prevents you from exchanging heat with your drink." - Roberta 3/7/16
-
-"What makes a penguin a penguin?" - 3/30/16
-
-"To go from the sublime to the ridiculous." - LEckhardt - 5/17/16
-"Sort of out of sorts." - LEckh
-
-"Any model based approach you're gonna have to make some sacrifices." - MHick 5/18/16
+* "I wouldn't say it's from lack of trying. There is some lack of trying." (9/24)
+* "You can't sample from things that don't exist." (9/24/15)
+* "For some reason they like sex and sometimes they mate wrongly." - A Carvalho (9/30/15)
+* "I don't use it, I just advertise it." 
+* "The opportunity to use fancy machines is very attractive to me." - JKass (10/19/15)
+* "Feasibility shock." - 10/22/15
+* "Hard uncertainty vs soft uncertainty." - 10/22/15 ???
+* "The problem isn't that you don't have the ingredients, the problem is the cooking." - Jampack
+* "There are no buffers in life!" - MHick 11/17/15
+* "It changes less than it stays the same." - TDoyle 11/30/15
+* "I'm not gonna shoot it if I'm not gonna eat it." - RR
+* "Taxonomy is a little bit above my paygrade." - MHick 3/3/16
+* "I don't care about what's cool, I care about what's closest to the truth." - ACarnav 2/9/16
+* "Complex, heterogeneous, and thus effectively unknown." - JNov 2/16/16
+* "Pi is classically robust to sample size." Mhick 2/16
+* "Depends on which side of the bed you get out of." - Mhick
+* "That's a process that comes about as a function of things happening." - WPearse 3/2/16
+* "Lets model it, man!" - MBlair 3/4/16
+* "I don't know if further science would help." - MBlair 3/4/16
+* "It prevents you from exchanging heat with your drink." - Roberta 3/7/16
+* "What makes a penguin a penguin?" - 3/30/16
+* "To go from the sublime to the ridiculous." - LEckhardt - 5/17/16
+* "Sort of out of sorts." - LEckh
+* "Any model based approach you're gonna have to make some sacrifices." - MHick 5/18/16
+* "I'm not drunk I'm just enthusiastic." - Anon 7/22/16
 
 # Human Evolutionary Genetics
 * "Some description of reality that seems reasonable." - M.Prz 1/19/16
