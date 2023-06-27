@@ -80,3 +80,4 @@
 ## June 2023 - Evolution Conference
 * "Doing it ALL backward!" -CF (the future French lab motto)
 * "Frogs hold a special place in my heart" - CF
+* "Everything goes into havoc." - Anon
