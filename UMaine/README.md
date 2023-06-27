@@ -1,3 +1,7 @@
+# 2019
+* "Things just die until they die no more because they're all dead." - AJR
+* "Time will tell." - Anon
+
 # 2022
 * "I don't know much past the fashion of 1987." - FB 4/22
 * "The magic is where the bugs happen." - AJR & IO 5/5/22
