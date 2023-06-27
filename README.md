@@ -302,6 +302,7 @@ Just a bunch of stuff people said.
 * "Give it more time and they will all become extinct." - 10/11 FB
 * "I don't think we have any reason to believe that the truth is piecewise, right?" & "I don't know what we know about the truth." - 10/20 FHartig
 * "If there's nothing invariant you don't have data." - 11/2 BMenard
+* "Every back burner I have has a backburner of it's own and I don't know how far it goes." - IO 11/19
 * "Well grants are annoying, that's why they aren't free" - IO
 * "Every back burner I have has a backburner of it's own and I don't know how far it goes." - IO
 
