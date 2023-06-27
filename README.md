@@ -78,6 +78,7 @@ Just a bunch of stuff people said.
 - Possession & witchcraft in 17th century France (3/19/15)
 
 # 2015/2016
+* "It's not awkward if you're used to it" - Anon 8/27/15
 * "I wouldn't say it's from lack of trying. There is some lack of trying." (9/24)
 * "You can't sample from things that don't exist." (9/24/15)
 * "For some reason they like sex and sometimes they mate wrongly." - A Carvalho (9/30/15)
