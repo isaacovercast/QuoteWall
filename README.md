@@ -321,6 +321,8 @@ Just a bunch of stuff people said.
 * "The uterus of a snake is the least interesting thing i can think of besides maybe the uterus of a human." - A.K. 5/6
 * "Theres no 5 second rule for buffalo chicken" - I.O. 5/13
 * "Nobody is a prophet in their own land." - L.A. 11/24, sEnigmas Mtg
+* "The DNA remembers" - AH 12/23
+* "You don't want to see the reaction current you want to see the dynamic." / "time is a huge factor in this" / "What you want is a sense of the middle." - AH 12/23
 * "I like studying species that I can work on in shorts and a tank top." - A.K. 12/29
 
 ## 2023
