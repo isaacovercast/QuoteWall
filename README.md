@@ -309,6 +309,7 @@ Just a bunch of stuff people said.
 * "I'm 99% sure I have a pretty lumpy head." - 10/22/15
 * "You pick your own misery." - 1/12/22
 * "If I had a mind palace it would be burned to the ground by now." - 3/6/23
+* "I was trying to help a turtle cross the road and it peed on my glasses!" - 6/30/23
 
 # From Papers
 
