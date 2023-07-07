@@ -301,6 +301,7 @@ Just a bunch of stuff people said.
 * "Even to do nothing is a lot of work." - I.O. 4/12
 * "That's the problem with stray dogs, they bite!" - I.O. 4/26
 * "I must have really active big toes." - L.Sheinberg 4/27
+* "Per unit of branch length, owls are the coolest birds." - I.O. 7/7
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
