@@ -312,6 +312,7 @@ Just a bunch of stuff people said.
 * "If I had a mind palace it would be burned to the ground by now." - 3/6/23
 * "I was trying to help a turtle cross the road and it peed on my glasses!" - 6/30/23
 * "I can't stop smelling farts." - Arianna Kuhn 7/2/23
+* "Americana Joe & The Pleebee-Weebees" - AK 7/8/23, A good name for a band
 
 # From Papers
 
