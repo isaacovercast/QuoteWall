@@ -313,6 +313,7 @@ Just a bunch of stuff people said.
 * "I was trying to help a turtle cross the road and it peed on my glasses!" - 6/30/23
 * "I can't stop smelling farts." - Arianna Kuhn 7/2/23
 * "Americana Joe & The Pleebee-Weebees" - AK 7/8/23, A good name for a band
+* "That's why the only pictures that are worth looking at on the internet are of animals, because if they are fabricated I don't care." - AK 7/11/23
 
 # From Papers
 
