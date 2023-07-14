@@ -302,6 +302,7 @@ Just a bunch of stuff people said.
 * "That's the problem with stray dogs, they bite!" - I.O. 4/26
 * "I must have really active big toes." - L.Sheinberg 4/27
 * "Per unit of branch length, owls are the coolest birds." - I.O. 7/7
+* "I love a one locus study, those were the good old days." - SR 7/13
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
