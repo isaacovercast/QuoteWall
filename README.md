@@ -316,7 +316,7 @@ Just a bunch of stuff people said.
 * "Americana Joe & The Pleebee-Weebees" - AK 7/8/23, A good name for a band
 * "That's why the only pictures that are worth looking at on the internet are of animals, because if they are fabricated I don't care." - AK 7/11/23
 
-# From Papers
+# From other sources
 
 "Finally, all is lost - the island founders."
 * Whittaker, Robert J., Kostas A. Triantis, and Richard J. Ladle. "A general dynamic theory of oceanic island biogeography." Journal of Biogeography 35.6 (2008): 977-994.
@@ -326,3 +326,7 @@ Just a bunch of stuff people said.
 
 "12. When the air is pure breathe all of it you can - breathe deeply."
 * Soper, A. "[The Lessons of the Pandemic.](https://science.sciencemag.org/content/sci/49/1274/501.full.pdf)" Science (1919): VOL. XLIX No. 1274
+
+"Of course I don't believe in it, but I was told that it works even if you don't believe in it."
+* Attributed to Neils Bohr, but [perhaps apocryphal](https://quoteinvestigator.com/2013/10/09/horseshoe-luck/) (through 
+[Slavoj Žižek](https://www.goodreads.com/quotes/8764869-surprised-at-seeing-a-horse-shoe-above-the-door-of-bohr-s)
