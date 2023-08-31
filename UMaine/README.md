@@ -83,6 +83,15 @@
 * If everyone is eliminated, everyone is screwed and you are back to being neutral.
 * Everyone loves space.
 
+## Misc (from the physical quote wall)
+* "I'm really bad at impulse control." -AR
+* "Only good in theory" - Potential 'back of the door' lab motto
+* "Calculated chaos" - Another 'back of the door' lab motto
+* "Birds always have very nice looking SADs." - AR
+* "Power law is trash." - RD
+* "What is this witchcraft?" - RD
+* "Permanence is fleeting." - IO
+* Perspiscience <- Infinite vision
 ## June 2023 - Evolution Conference
 * "Doing it ALL backward!" -CF (the future French lab motto)
 * "Frogs hold a special place in my heart" - CF
