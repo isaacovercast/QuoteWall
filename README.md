@@ -332,3 +332,7 @@ Just a bunch of stuff people said.
 "Of course I don't believe in it, but I was told that it works even if you don't believe in it."
 * Attributed to Neils Bohr, but [perhaps apocryphal](https://quoteinvestigator.com/2013/10/09/horseshoe-luck/) (through 
 [Slavoj Žižek](https://www.goodreads.com/quotes/8764869-surprised-at-seeing-a-horse-shoe-above-the-door-of-bohr-s)
+
+"Maximum predictability and anything of interest are incompatible."
+* Julian Barbour; from the email sig of a colleague
+
