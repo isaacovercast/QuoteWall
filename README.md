@@ -318,6 +318,7 @@ Just a bunch of stuff people said.
 * "That's why the only pictures that are worth looking at on the internet are of animals, because if they are fabricated I don't care." - AK 7/11/23
 * "I get henna tattoos every time I go to the Renaissance festival." - 7/4/23
 * "Do you realize with chatgpt I'm as smart as everybody else?" - 7/4/23
+* "I'm enough of a doctor to know when I see a real mushroom." - 10/2/23
 
 # From other sources
 
