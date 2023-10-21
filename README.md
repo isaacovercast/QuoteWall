@@ -320,6 +320,7 @@ Just a bunch of stuff people said.
 * "Do you realize with chatgpt I'm as smart as everybody else?" - 7/4/23
 * "I'm enough of a doctor to know when I see a real mushroom." - 10/2/23
 * "I have the memory of someone who's done LSD their whole life, but that's not what happened to me." - 10/16/23
+* "The last thing you want in an emergency is me as your emergency contact." - 10/21/23
 
 # From other sources
 
