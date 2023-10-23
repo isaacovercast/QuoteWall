@@ -319,6 +319,7 @@ Just a bunch of stuff people said.
 * "I get henna tattoos every time I go to the Renaissance festival." - 7/4/23
 * "Do you realize with chatgpt I'm as smart as everybody else?" - 7/4/23
 * "I'm enough of a doctor to know when I see a real mushroom." - 10/2/23
+* "Perspective is complicated." - 10/14/23
 * "I have the memory of someone who's done LSD their whole life, but that's not what happened to me." - 10/16/23
 * "The last thing you want in an emergency is me as your emergency contact." - 10/21/23
 
