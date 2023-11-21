@@ -323,6 +323,7 @@ Just a bunch of stuff people said.
 * "Perspective is complicated." - 10/14/23
 * "I have the memory of someone who's done LSD their whole life, but that's not what happened to me." - 10/16/23
 * "The last thing you want in an emergency is me as your emergency contact." - 10/21/23
+* "I can't be motivated enough by beauty, but I can be motivated enough by dysentery." - 11/21/2023
 
 # From other sources
 
