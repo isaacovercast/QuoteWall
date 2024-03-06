@@ -325,6 +325,7 @@ Just a bunch of stuff people said.
 * "The last thing you want in an emergency is me as your emergency contact." - 10/21/23
 * "I can't be motivated enough by beauty, but I can be motivated enough by dysentery." - 11/21/2023
 * "I hate every species of reptile and amphibian that I don't already like." - 12/21/2023
+* "Id rather have ten hermit crabs then a bald cat." - 2/7/2024
 
 # From other sources
 
