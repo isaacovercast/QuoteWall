@@ -303,6 +303,7 @@ Just a bunch of stuff people said.
 * "I must have really active big toes." - L.Sheinberg 4/27
 * "Per unit of branch length, owls are the coolest birds." - I.O. 7/7
 * "I love a one locus study, those were the good old days." - SR 7/13
+* "Old fashioned is the new fashion." - JKuja 7/26
 * "When it's too big it's dumb, and when it's too small it's unsafe." - AK 9/27, what's the context???
 * "Maybe it's just statistical noise, but it's very powerful noise!" - AS 11/8
 
