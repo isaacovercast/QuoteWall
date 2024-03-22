@@ -307,6 +307,9 @@ Just a bunch of stuff people said.
 * "When it's too big it's dumb, and when it's too small it's unsafe." - AK 9/27, what's the context???
 * "Maybe it's just statistical noise, but it's very powerful noise!" - AS 11/8
 
+## 2024
+* "The cats are going to herd themselves, inevitably." - IO 3/22, re: working group behavior
+
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
