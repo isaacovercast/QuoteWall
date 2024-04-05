@@ -308,6 +308,7 @@ Just a bunch of stuff people said.
 * "Maybe it's just statistical noise, but it's very powerful noise!" - AS 11/8
 
 ## 2024
+* "Time isn't our friend, but that's just the way it is." - 3/11
 * "The cats are going to herd themselves, inevitably." - IO 3/22, re: working group behavior
 
 # AK
