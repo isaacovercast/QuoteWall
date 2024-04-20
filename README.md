@@ -1,4 +1,6 @@
 Just a bunch of stuff people said.
+# Undated
+* "Practicing is the meaning of life..." - IO
 
 # 2014/2015
 ## Evolution
