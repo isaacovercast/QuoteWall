@@ -341,7 +341,7 @@ Just a bunch of stuff people said.
 "Finally, all is lost - the island founders."
 * Whittaker, Robert J., Kostas A. Triantis, and Richard J. Ladle. "A general dynamic theory of oceanic island biogeography." Journal of Biogeography 35.6 (2008): 977-994.
 
-"Moreover, the Louvain and simulated-annealing algorithms are much more popular than spectral algorithms in investigations of community structure [14] __(and life is short)__, so we only compare results using the Louvain and simulatedannealing algorithms for the remainder of this appendix."
+"Moreover, the Louvain and simulated-annealing algorithms are much more popular than spectral algorithms in investigations of community structure [14] __(and life is short)__, so we only compare results using the Louvain and simulated annealing algorithms for the remainder of this appendix."
 * Onnela, Jukka-Pekka, et al. "Taxonomies of networks from community structure." Physical Review E 86.3 (2012): 036104.
 
 "12. When the air is pure breathe all of it you can - breathe deeply."
@@ -353,4 +353,6 @@ Just a bunch of stuff people said.
 
 "Maximum predictability and anything of interest are incompatible."
 * Julian Barbour; from the email sig of a colleague
+
+* [James Baldwin](https://www.instagram.com/reel/C3jE745tQud/?igsh=dHdzZjNhYm42aHE3)
 
