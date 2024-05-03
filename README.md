@@ -309,6 +309,8 @@ Just a bunch of stuff people said.
 * "Old fashioned is the new fashion." - JKuja 7/26
 * "When it's too big it's dumb, and when it's too small it's unsafe." - AK 9/27, what's the context???
 * "Maybe it's just statistical noise, but it's very powerful noise!" - AS 11/8
+* "If it's not for your dissertation it's a vacation." - SR 11/28
+* "I haven't vomited since 1994." - FB 11/28
 
 ## 2024
 * "Time isn't our friend, but that's just the way it is." - 3/11
