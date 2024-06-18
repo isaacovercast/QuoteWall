@@ -341,9 +341,8 @@ Just a bunch of stuff people said.
 * "I have a whole dissertation in my fridge." - 3/17/2024
 
 # From other sources
-
-"Finally, all is lost - the island founders."
-* Whittaker, Robert J., Kostas A. Triantis, and Richard J. Ladle. "A general dynamic theory of oceanic island biogeography." Journal of Biogeography 35.6 (2008): 977-994.
+"Brevity exposes a writers attitudes; selection and emphasis are everything."
+* Andrea Barrett, nyt book review
 
 "Moreover, the Louvain and simulated-annealing algorithms are much more popular than spectral algorithms in investigations of community structure [14] __(and life is short)__, so we only compare results using the Louvain and simulated annealing algorithms for the remainder of this appendix."
 * Onnela, Jukka-Pekka, et al. "Taxonomies of networks from community structure." Physical Review E 86.3 (2012): 036104.
