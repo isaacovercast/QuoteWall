@@ -315,6 +315,7 @@ Just a bunch of stuff people said.
 ## 2024
 * "Time isn't our friend, but that's just the way it is." - 3/11
 * "The cats are going to herd themselves, inevitably." - IO 3/22, re: working group behavior
+* "If you cant find what you're looking for, look for what you're finding." - Anon 5/4
 * "The less you type the less you mess up." - CF 6/4
 
 # AK
