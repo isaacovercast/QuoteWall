@@ -315,6 +315,7 @@ Just a bunch of stuff people said.
 ## 2024
 * "Time isn't our friend, but that's just the way it is." - 3/11
 * "The cats are going to herd themselves, inevitably." - IO 3/22, re: working group behavior
+* "The less you type the less you mess up." - CF 6/4
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
