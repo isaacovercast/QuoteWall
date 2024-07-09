@@ -318,6 +318,7 @@ Just a bunch of stuff people said.
 * "If you cant find what you're looking for, look for what you're finding." - Anon 5/4
 * "The less you type the less you mess up." - CF 6/4
 * "Trees have genes too." - Anon 6/24
+* "it's not about time, it's about timing." - MO 7/6
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
