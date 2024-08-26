@@ -2,6 +2,7 @@ Just a bunch of stuff people said.
 # Undated
 * "Practicing is the meaning of life..." - IO
 * "I'm not gonna fuck it up this time." - Anon
+* "Perceptions are conditioned by beliefs." - Anon
 
 # 2014/2015
 ## Evolution
