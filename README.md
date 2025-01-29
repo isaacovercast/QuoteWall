@@ -322,6 +322,9 @@ Just a bunch of stuff people said.
 * "Trees have genes too." - Anon 6/24
 * "it's not about time, it's about timing." - MO 7/6
 
+## 2025
+* "It works great on simulated data, but it works bad on real data." - DAE 1/29, re: all models are wrong.
+
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
 * "I think if I stopped freaking out my entire personality would disintigrate." - 10/8/15
