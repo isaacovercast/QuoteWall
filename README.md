@@ -325,6 +325,7 @@ Just a bunch of stuff people said.
 ## 2025
 * "It works great on simulated data, but it works bad on real data." - DAE 1/29, re: all models are wrong.
 * "I really have to carry a lot of water for the animal folks." - JL
+* "It is a TypeError type error." - DAE 2/11 🤔
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
