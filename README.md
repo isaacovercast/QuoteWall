@@ -326,7 +326,9 @@ Just a bunch of stuff people said.
 * "It works great on simulated data, but it works bad on real data." - DAE 1/29, re: all models are wrong.
 * "I really have to carry a lot of water for the animal folks." - JL
 * "It is a TypeError type error." - DAE 2/11 🤔
+* "It wasnt even nepotism, and i _love_ nepostism!" - LV 3/10
 * "It's the 1% that takes 90% of the programming effort." - IAO 3/13
+
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
