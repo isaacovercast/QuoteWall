@@ -329,6 +329,7 @@ Just a bunch of stuff people said.
 * "The data is always right, but nature always wins. - TBW @ AI Symposium 2/18
 * "It wasnt even nepotism, and i _love_ nepostism!" - LV 3/10
 * "It's the 1% that takes 90% of the programming effort." - IAO 3/13
+* "Don't get too relieved, you've got a lot of work to do." - DTim 4/28, on how it only ever gets worse.
 
 
 # AK
