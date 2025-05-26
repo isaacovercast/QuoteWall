@@ -4,6 +4,8 @@ Just a bunch of stuff people said.
 * "I'm not gonna fuck it up this time." - Anon
 * "Perceptions are conditioned by beliefs." - Anon
 * "There's always time if you are prepared." - AK
+* "Embrace the uncertainty - Anon
+* "Chaos is the score upon which reality is written." - A corollary
 
 # 2014/2015
 ## Evolution
