@@ -355,6 +355,7 @@ Just a bunch of stuff people said.
 * "I hate every species of reptile and amphibian that I don't already like." - 12/21/2023
 * "Id rather have ten hermit crabs then a bald cat." - 2/7/2024
 * "I have a whole dissertation in my fridge." - 3/17/2024
+* "My shorts are turning into a sweat diaper." - 7/13/2025
 
 # From other sources
 "Brevity exposes a writers attitudes; selection and emphasis are everything."
