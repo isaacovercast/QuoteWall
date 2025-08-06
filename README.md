@@ -332,7 +332,7 @@ Just a bunch of stuff people said.
 * "It wasnt even nepotism, and i _love_ nepostism!" - LV 3/10
 * "It's the 1% that takes 90% of the programming effort." - IAO 3/13
 * "Don't get too relieved, you've got a lot of work to do." - DTim 4/28, on how it only ever gets worse.
-
+* "Somebody is nobody's fool." - IO 7/28/25
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
