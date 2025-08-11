@@ -333,6 +333,8 @@ Just a bunch of stuff people said.
 * "It's the 1% that takes 90% of the programming effort." - IAO 3/13
 * "Don't get too relieved, you've got a lot of work to do." - DTim 4/28, on how it only ever gets worse.
 * "Somebody is nobody's fool." - IO 7/28/25
+* "Its funny the things you dont see until you see them." - MO 8/8
+
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
