@@ -356,6 +356,7 @@ Just a bunch of stuff people said.
 * "Id rather have ten hermit crabs then a bald cat." - 2/7/2024
 * "I have a whole dissertation in my fridge." - 3/17/2024
 * "My shorts are turning into a sweat diaper." - 7/13/2025
+* "Thats the thing about snacks, you have to try a lot to find the good ones." - 8/10/25
 
 # From other sources
 "Brevity exposes a writers attitudes; selection and emphasis are everything."
