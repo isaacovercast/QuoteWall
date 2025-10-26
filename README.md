@@ -359,6 +359,7 @@ Just a bunch of stuff people said.
 * "I have a whole dissertation in my fridge." - 3/17/2024
 * "My shorts are turning into a sweat diaper." - 7/13/2025
 * "Thats the thing about snacks, you have to try a lot to find the good ones." - 8/10/25
+* "One minute is a lot in the cookie world." - 10/23/25
 
 # From other sources
 "Brevity exposes a writers attitudes; selection and emphasis are everything."
