@@ -334,6 +334,7 @@ Just a bunch of stuff people said.
 * "Don't get too relieved, you've got a lot of work to do." - DTim 4/28, on how it only ever gets worse.
 * "Somebody is nobody's fool." - IO 7/28/25
 * "Its funny the things you dont see until you see them." - MO 8/8
+* "Theyre like sirens, theyre everywhere but we dont know where everywhere is." - EK 12/12
 
 
 # AK
