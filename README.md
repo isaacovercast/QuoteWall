@@ -6,6 +6,7 @@ Just a bunch of stuff people said.
 * "There's always time if you are prepared." - AK
 * "Embrace the uncertainty - Anon
 * "Chaos is the score upon which reality is written." - A corollary
+* "Lets bet on the stars." - Anon
 
 # 2014/2015
 ## Evolution
