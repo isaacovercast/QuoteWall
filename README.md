@@ -338,6 +338,8 @@ Just a bunch of stuff people said.
 * "Its funny the things you dont see until you see them." - MO 8/8
 * "Theyre like sirens, theyre everywhere but we dont know where everywhere is." - EK 12/12
 
+## 2026
+* "In my case I have no problem with Derek Bailey's definition.  But I’m not crazy about people who go around defining stuff." - Charlemagne Palestine
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
