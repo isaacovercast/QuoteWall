@@ -341,6 +341,7 @@ Just a bunch of stuff people said.
 ## 2026
 * "In my case I have no problem with Derek Bailey's definition. But I’m not crazy about people who go around defining stuff." - Charlemagne Palestine
 * "It's difficult to troubleshoot backwards in time." - IO 3/5
+* "Everything stems from their immobility." <- DTim 4/20, re: plants
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
