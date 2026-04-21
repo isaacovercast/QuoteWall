@@ -367,6 +367,7 @@ Just a bunch of stuff people said.
 * "My shorts are turning into a sweat diaper." - 7/13/2025
 * "Thats the thing about snacks, you have to try a lot to find the good ones." - 8/10/25
 * "One minute is a lot in the cookie world." - 10/23/25
+* "I think I sat on a blueberry." - 04/21/2026
 
 # From other sources
 "Brevity exposes a writers attitudes; selection and emphasis are everything."
