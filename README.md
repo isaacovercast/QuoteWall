@@ -343,6 +343,7 @@ Just a bunch of stuff people said.
 * "It's difficult to troubleshoot backwards in time." - IO 3/5
 * "Everything stems from their immobility." <- DTim 4/20, re: plants
 * "Now my botox money is going for the dog." <- Anon 5/2
+* "You cannot rush a chicken wing." <- SR 5/6
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
