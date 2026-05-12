@@ -344,6 +344,7 @@ Just a bunch of stuff people said.
 * "Everything stems from their immobility." <- DTim 4/20, re: plants
 * "Now my botox money is going for the dog." <- Anon 5/2
 * "You cannot rush a chicken wing." <- SR 5/6
+* "For as simple as the SFS is, it's really fuckin complicated." <- SH 5/12
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
