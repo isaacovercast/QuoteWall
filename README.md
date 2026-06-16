@@ -346,6 +346,7 @@ Just a bunch of stuff people said.
 * "You cannot rush a chicken wing." <- SR 5/6
 * "For as simple as the SFS is, it's really fuckin complicated." <- SH 5/12
 * "I am not completely stupid, I'm just lazy." <- Anon 5/19
+* "I don't want to reinvent the wheel, I just want to take somebody else's wheel and put a new hubcap on it." <- IO 6/16
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
