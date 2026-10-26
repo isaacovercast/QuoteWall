@@ -8,6 +8,7 @@ Just a bunch of stuff people said.
 * "Chaos is the score upon which reality is written." - A corollary
 * "Let's bet on the stars." - Anon
 * "In my kingdom of creation, I am a strong believer that too much practice makes things artificial and imperfect." - [Charlemagne Palestine](https://www.15questions.net/interview/fifteen-questions-interview-charlemagne-palestine/page-1/)
+* "The benefit of simplifying is that it makes things easier." - IO
 
 # 2014/2015
 ## Evolution
