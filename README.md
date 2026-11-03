@@ -352,6 +352,7 @@ Just a bunch of stuff people said.
   * "A tree is kind of like an inverted tree." <- Deep!
   * "There's no purgatory for files." <- Wisdom!
   * "Unexpected 'in' in 'in'" <- Unhelpful error message
+* "Never look up on a bat roost with your mouth open." <- MD 11/3
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
