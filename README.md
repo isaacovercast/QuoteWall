@@ -353,6 +353,7 @@ Just a bunch of stuff people said.
   * "There's no purgatory for files." <- Wisdom!
   * "Unexpected 'in' in 'in'" <- Unhelpful error message
 * "Never look up on a bat roost with your mouth open." <- MD 11/3
+* "In theoretical physics no one has their own favorite electron." <- JoD
 
 # AK
 * "People can't get enough of hemipenes." - 9/24/15
